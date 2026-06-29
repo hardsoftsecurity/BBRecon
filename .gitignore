@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+ENV.venv/
+env.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IPython
+.ipython/
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#1181, it is recommended to include Pipfile.lock in version control.
+#   However, if you are executing a library, you might want to ignore it.
+#Pipfile.lock
+
+# poetry
+#   Similarly, Poetry recommends committing poetry.lock to version control
+#poetry.lock
+
+# environments (Sensitive data / API keys)
+.env
+.env.local
+.env.*
+.secrets
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+
+# OS generated files
+.DS_Store
+Thumbs.db
